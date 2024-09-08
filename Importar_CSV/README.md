@@ -109,3 +109,8 @@ Acessar o conteúdo padrão do Laravel
 ```
 http://127.0.0.1:8000
 ```
+
+Executar as migration
+```
+php artisan migrate
+```
